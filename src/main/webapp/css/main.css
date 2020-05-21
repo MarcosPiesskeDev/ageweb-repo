@@ -1,0 +1,11 @@
+.bg-black-estaciopro{
+    background-color: rgb(55, 59, 59);
+    color: white;
+}
+
+.nav-item-estaciopro{
+    color: rgb(75, 70, 70);
+}
+.nav-item-estaciopro:hover{
+    color: white;
+}
