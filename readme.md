@@ -10,7 +10,7 @@ Esta é a configuração dos back-end e front-end do projeto Agenda de Contatos 
 * MySQL Community Server - GPL version: 8.0.2 (Instalação módulo: 2)
 * 2GB Memória RAM  
 
-##Sumário
+## Sumário
 
 1. Modulação;
 <br>1.1. Soluções;
