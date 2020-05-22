@@ -6,8 +6,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html lang="en">
 <head>
-<title>User List</title>
+<title>Lista de usuários</title>
 <link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<c:url value="img/fav100px.png" var="favAIcon"/>
+<link rel="icon" alt="icons8.com.br" href="${favAIcon}"/>
 <c:url value="/css/main.css" var="cssprog" />
 <link href="${cssprog}" rel="stylesheet" />
 

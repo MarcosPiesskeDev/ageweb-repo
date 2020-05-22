@@ -7,9 +7,11 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <html lang="en">
 <head>
-<title>User ID</title>
+<title>Usuário Encontrado</title>
 <meta charset="utf-8"/>
 <link href="../../webjars/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<c:url value="../../img/fav100px.png" var="favAIcon"/>
+<link rel="icon" alt="icons8.com.br" href="${favAIcon}"/>
 <c:url value="/css/main.css" var="jstlCss" />
 <link href="${jstlCss}" rel="stylesheet" />
 </head>

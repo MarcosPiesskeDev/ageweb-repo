@@ -8,6 +8,8 @@
 <title>Registrar um Contato</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link href="../webjars/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<c:url value="../img/fav100px.png" var="favAIcon"/>
+<link rel="icon" alt="icons8.com.br" href="${favAIcon}"/>
 <c:url value="/css/main.css" var="jstlCss" />
 <link href="${jstlCss}" rel="stylesheet" />
 </head>
